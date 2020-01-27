@@ -1,23 +1,23 @@
 <p>
-<img src="https://hedgetrade.com/pages/images/logo-bull.png">
+<img src="https://folgory.com/frontjune/logo.png">
 </p>
 
-# HedgeTrade "HEDG" Token v2
+# FolgoryCoin "FLG" Token v2
 ### ERC-20 Token Genesis
-Learn more at: https://hedgetrade.com
-<br>Etherscan link: https://etherscan.io/address/0xf1290473e210b2108a85237fbcd7b6eb42cc654f#code
+Learn more at: https://folgory.com
+<br>Etherscan link: https://etherscan.io/token/0x5e040aC72140F0617bC24aB7134c0C6eCae0e965#tokenInfo
 
 #### Official Token Contract Address:
 ````
-0xf1290473e210b2108a85237fbcd7b6eb42cc654f
+0x5e040aC72140F0617bC24aB7134c0C6eCae0e965
 ````
 #### Official Token Details:
 ````
 Decimals: 18
-Symbol: HEDG
+Symbol: FLG
 ````
 
-We have built a single-purpose secure Smart Contract for the HEDG Genesis event. It creates a set number of tokens on the Ethereum Blockchain and provides functionality for freezing, burning, transferring and more ERC-20 standard functions. It has been built using the Dappsys framework.
+We have built a single-purpose secure Smart Contract for the FLG Genesis event. It creates a set number of tokens on the Ethereum Blockchain and provides functionality for freezing, burning, transferring and more ERC-20 standard functions. It has been built using the Dappsys framework.
 
 #### The contract has the following features:
 ````
