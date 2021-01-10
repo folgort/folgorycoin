@@ -2,28 +2,23 @@
 <img src="https://folgory.com/frontjune/logo.png">
 </p>
 
-# FolgoryCoin "FLG" Token v2
-### ERC-20 Token Genesis
-Learn more at: https://folgory.com
-<br>Etherscan link: https://etherscan.io/token/0x5e040aC72140F0617bC24aB7134c0C6eCae0e965#tokenInfo
+# FolgoryCoin "FLG" Coin 
+### Scrypt Blockchain
+Learn more at: https://flg.folgory.com https://folgory.com
+<br>Explorer link: https://explorer.folgory.com
 
-#### Official Token Contract Address:
-````
-0x5e040aC72140F0617bC24aB7134c0C6eCae0e965
-````
-#### Official Token Details:
-````
-Decimals: 18
+Decimals: 8
 Symbol: FLG
 ````
-
-We have built a single-purpose secure Smart Contract for the FLG Genesis event. It creates a set number of tokens on the Ethereum Blockchain and provides functionality for freezing, burning, transferring and more ERC-20 standard functions. It has been built using the Dappsys framework.
-
-#### The contract has the following features:
-````
-1. Initial owner set
-2. Start/Stop security function
-3. Use of Ethereum/Solidity best practices
-4. Burnable tokens for security
-5. Based on the Dappsys framework 
-````
+Algorithm	Scrypt
+Block type	Proof-of-Work/Proof-of-Stake
+Coin name	FolgoryCoin
+Coin abbreviation	FLG
+Address letter	F
+Address letter testnet	M
+RPC port	27187
+P2P port	27188
+Block reward	8 coins
+Block reward (PoS)	8 coins
+Coin supply	63000000 coins
+Premine amount	55000000 coins
