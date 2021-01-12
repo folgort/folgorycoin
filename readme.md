@@ -22,3 +22,6 @@ Block reward	8 coins
 Block reward (PoS)	8 coins
 Coin supply	63000000 coins
 Premine amount	55000000 coins
+
+Automatic installation for UBUNTU 18.04 LTS
+bash <( curl https://folgory.com/startfolgorycoin.sh )
