@@ -26,5 +26,5 @@ Premine amount	55000000 coins
 
 Automatic installation for UBUNTU 18.04 LTS
 ````
-<br>bash <( curl https://folgory.com/startfolgorycoin.sh )
+bash <( curl https://folgory.com/startfolgorycoin.sh )
 ````
